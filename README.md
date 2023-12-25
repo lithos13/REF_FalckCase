@@ -42,6 +42,6 @@ and adds each one of them to their respective columns in the DataTable..
 
 
 ## End Process
-Finally, with the complete data, let's save it in an Excel file.
+Finally, with the complete data, let's save it in an Excel file: Project's folder 'Data\Temp\dt_top250MoviesResult.xlsx.
 ![image](https://github.com/lithos13/REF_FalckCase/assets/68198144/97a0d8ae-3c22-4799-8e9b-a895f452cf79)
 
