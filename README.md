@@ -1,5 +1,7 @@
 # REF_FalckCase
 This case involves obtaining the list of the top 250 best-rated movies and, from that list, extracting the movies rated above 8.1 filmed after 2000. 
+> [!NOTE]
+> This is an addition made to the original case.
 
 # Technical Requirements
 
@@ -9,7 +11,7 @@ This case involves obtaining the list of the top 250 best-rated movies and, from
 
 # Automation
 According to the requirements, this automation was developed as follows:
-This additional solution will use additional movie details, which are accessed by opening the movie URL
+`This additional solution will use additional movie details, which are accessed by opening the movie URL`
 
 ![image](https://github.com/lithos13/REF_FalckCase/assets/68198144/350837ab-4fb9-4353-a791-97dd8b38274b)
  +  ![image](https://github.com/lithos13/REF_FalckCase/assets/68198144/328f2396-4303-467e-9643-74a859300e95)
