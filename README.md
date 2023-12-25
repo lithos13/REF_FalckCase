@@ -1,5 +1,5 @@
 # REF_FalckCase
-This case involves obtaining the list of the top 250 best-rated movies and, from that list, extracting the movies rated above 8.1 filmed in the year 2000 later. 
+This case involves obtaining the list of the top 250 best-rated movies and, from that list, extracting the movies rated above 8.1 filmed in the year 2000 or later. 
 > [!NOTE]
 > This is an addition made to the original case.
 
